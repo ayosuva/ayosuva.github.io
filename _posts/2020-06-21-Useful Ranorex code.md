@@ -62,8 +62,8 @@ string rows = TestSuite.Current.CurrentTestContainer.DataRange.MaxRange.ToString
 ```
 9. To get custom logo in Ranorex PDF report
 
-Download the style.xml and specify logo path in the below mentioned line.
-This style.xml can also be used to increase screenshot quality and to change look and feel of pdf.
+   Download the style.xml and specify logo path in the below mentioned line.
+   This style.xml can also be used to increase screenshot quality and to change look and feel of pdf.
 
 ```c#
 <global toc="true" logo="C:\logo.png" bottommargin="2" topmargin="2" showtestdata="true" showdescription="true" showpictures="true"/>
