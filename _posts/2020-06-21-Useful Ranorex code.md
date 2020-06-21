@@ -10,9 +10,9 @@ This page contains few useful Ranorex code snippets
 1. To get current Test case name:
 ```c#
 var curTestCase = (TestCaseNode)TestSuite.CurrentTestContainer;
-string tcName = curTestCase.Name;`
+string tcName = curTestCase.Name;
 ```
-2.To add image in report
+2. To add image in report
 ```c#
 Report.LogData(ReportLevel.Info, "General Data", Ranorex.Imaging.Load(@"E:\Yosuva\Evidence\test.jpg"));
 ```
@@ -21,11 +21,11 @@ Report.LogData(ReportLevel.Info, "General Data", Ranorex.Imaging.Load(@"E:\Yosuv
 var tcStatus = TestSuite.Current.GetTestContainer("tcName").Status; // get status of specified TC 
 var tcStatus = Ranorex.Core.Reporting.ActivityStack.Current.Status; // returns test suite status
 ```
-4.To log Html in report
+4. To log Html in report
 ```c#
 Report.LogHtml(ReportLevel.Success,"Generated "+filename+" Document", "<a href='"+filename+".pdf"+"' target='_blank'>Open Document</a>");
 ```
-5.Example for Table Iteration:
+5. Example for Table Iteration:
 ```c#
 public void ValidateReceivedPayments(RepoItemInfo reference_obj, RepoItemInfo cell_amount, RepoItemInfo cell_reason)
         {
@@ -45,11 +45,11 @@ public void ValidateReceivedPayments(RepoItemInfo reference_obj, RepoItemInfo ce
         }
 }
 ```
- 6. To get the report directory path
+6. To get the report directory path
 ```c#
 string dest = TestReport.ReportEnvironment.ReportFileDirectory;
 ```
-7.To call module inside module or user code.You can add the below user code into a module.
+7. To call module inside module or user code.You can add the below user code into a module.
 ```c#
 public void RunModule()
 {
@@ -60,7 +60,7 @@ public void RunModule()
 ```c#
 string rows = TestSuite.Current.CurrentTestContainer.DataRange.MaxRange.ToString();
 ```
-9.To get custom logo in Ranorex PDF report
+9. To get custom logo in Ranorex PDF report
 Download the style.xml and specify logo path in the below mentioned line.
 This style.xml can also be used to increase screenshot quality and to change look and feel of pdf
 ```xml
