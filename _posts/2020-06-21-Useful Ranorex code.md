@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Useful Ranorex Code snippets"
-author: sal
+author: Yosuva
 categories: [ Ranorex, tutorial ]
 image: assets/images/16.jpg
 ---
