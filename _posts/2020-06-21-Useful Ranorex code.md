@@ -65,10 +65,10 @@ string rows = TestSuite.Current.CurrentTestContainer.DataRange.MaxRange.ToString
    Download the style.xml and specify logo path in the below mentioned line.
    This style.xml can also be used to increase screenshot quality and to change look and feel of pdf.
 
-```c#
-<global toc="true" logo="C:\logo.png" bottommargin="2" topmargin="2" showtestdata="true" showdescription="true" showpictures="true"/>
-```
-> Note:In order to see the changes in the pdf , Please specify style.xml path in ConvertToPDF method or in PDF parameters.
+        ```c#
+        <global toc="true" logo="C:\logo.png" bottommargin="2" topmargin="2" showtestdata="true" showdescription="true" showpictures="true"/>
+        ```
+        > Note:In order to see the changes in the pdf , Please specify style.xml path in ConvertToPDF method or in PDF parameters.
 
 10. To parameterize a value in the RxPath or to pass dynamic values in Rxpath.
 ```c#
