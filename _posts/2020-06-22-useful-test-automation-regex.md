@@ -3,7 +3,7 @@ layout: post
 title:  "Useful Test Automation Regex"
 author: Yosuva
 categories: [ Ranorex, tutorial ]
-image: assets/images/16.jpg
+image: https://miro.medium.com/max/500/1*cNied1kpXyBRp4GwW7Jn8w.png
 ---
 This post contains few example regex that i used in test automation.
 
