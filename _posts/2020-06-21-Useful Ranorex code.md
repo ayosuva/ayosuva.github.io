@@ -3,7 +3,7 @@ layout: post
 title:  "Useful Ranorex Code snippets"
 author: Yosuva
 categories: [ Ranorex, tutorial ]
-image: assets/images/ranorexstudio.jpg
+image: assets/images/ranorexstudio.png
 ---
 This page contains few useful Ranorex code snippets
 
