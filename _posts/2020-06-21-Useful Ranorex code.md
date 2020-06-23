@@ -2,7 +2,7 @@
 layout: post
 title:  "Useful Ranorex Code snippets"
 author: Yosuva
-categories: [ Ranorex, tutorial ]
+categories: [Ranorex]
 image: assets/images/ranorexstudio.png
 ---
 This page contains few useful Ranorex code snippets
