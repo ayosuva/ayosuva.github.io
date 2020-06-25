@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Useful Test Automation Regex"
+title:  "Useful Test Automation c# functions or code snippets"
 author: Yosuva
 categories: [Ranorex]
 featured: true
