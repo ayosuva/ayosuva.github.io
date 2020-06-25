@@ -4,7 +4,7 @@ title:  "Useful Test Automation Regex"
 author: Yosuva
 categories: [Ranorex]
 featured: true
-image: assets/images/regex.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png
 ---
 This post contains few useful c# code snippets that i used in test automation.
 
