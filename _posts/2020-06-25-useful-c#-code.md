@@ -31,4 +31,12 @@ To convert string date to DateTime
 ```js
 DateTime dt=DateTime.ParseExact("24/01/2013", "dd/MM/yyyy", null);
 ```
+To remove leading zero from string
+```js
+string s="0000001234567"
+s.TrimStart(new Char[] { '0' } );
+Console.WriteLine(s);
+```
+Output
+>1234567
 
