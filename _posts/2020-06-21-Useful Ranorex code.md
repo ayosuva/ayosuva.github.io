@@ -87,3 +87,7 @@ string folder_path = TestReport.ReportEnvironment.ReportVideoFolderPath;
 string folder_name = TestReport.ReportEnvironment.ReportVideoFolderName;  
 string file_name = TestReport.ReportEnvironment.CurrentVideoFileName; 
 ```
+13. To get selected run config name
+```c#
+TestSuite.Current.SelectedRunConfig.Name.ToString();
+```
