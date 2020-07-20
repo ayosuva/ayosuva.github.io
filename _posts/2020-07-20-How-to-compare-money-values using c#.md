@@ -2,7 +2,7 @@
 layout: post
 title:  "How to compare Money values using c#?"
 author: Yosuva
-categories: [Ranorex][c#]
+categories: [Ranorex]
 featured: true
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png
 ---
