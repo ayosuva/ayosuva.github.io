@@ -13,7 +13,7 @@ This page contains few useful git commands
 3. Add README.md file using ```echo "Hello" >> README.md```
 4. Add ```.gitignore``` file manually and add the below content if your project is eclipse maven project
 
-<code>
+<p>
 #Eclipse
 .classpath
 .project
@@ -30,7 +30,7 @@ This page contains few useful git commands
 #Maven
 log/
 target/
-</code>
+</p>
 
 5. Add remote repository using ```git remote add origin https://github.com/ayosuva/test.git```
 6. create branch using ```git branch -M master```
