@@ -4,7 +4,7 @@ title:  "Useful git commands"
 author: Yosuva
 categories: [Git]
 featured: true
-image: 
+image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-chcmm&psig=AOvVaw2ZJ7raSmvuX0VnPUcnO21t&ust=1600381823690000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi5noPd7usCFQAAAAAdAAAAABAI
 ---
 This page contains few useful git commands
 
@@ -13,20 +13,20 @@ This page contains few useful git commands
 3. Add README.md file using ```echo "Hello" >> README.md```
 4. Add ```.gitignore``` file manually and add the below content if your project is eclipse maven project
 ```java
- # Eclipse
+ #Eclipse
 .classpath
 .project
 .settings/
 
-# Intellij
+#Intellij
 .idea/
 *.iml
 *.iws
 
-# Mac
+#Mac
 .DS_Store
 
-# Maven
+#Maven
 log/
 target/
 ```
