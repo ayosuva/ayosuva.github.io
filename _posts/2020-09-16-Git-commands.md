@@ -13,7 +13,7 @@ This page contains few useful git commands
 3. Add README.md file using ```echo "Hello" >> README.md```
 4. Add ```.gitignore``` file manually and add the below content if your project is eclipse maven project
 ```py
- #Eclipse
+#Eclipse
 .classpath
 .project
 .settings/
