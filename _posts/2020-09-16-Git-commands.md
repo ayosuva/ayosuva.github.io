@@ -13,21 +13,21 @@ This page contains few useful git commands
 3. Add README.md file using ```echo "Hello" >> README.md```
 4. Add ```.gitignore``` file manually and add the below content if your project is eclipse maven project
 
-```c#
-# Eclipse
-.classpath
-.project
-.settings/
-# Intellij
-.idea/
-*.iml
-*.iws
-# Mac
-.DS_Store
-# Maven
-log/
-target/
-```
+   ```c#
+   # Eclipse
+   .classpath
+   .project
+   .settings/
+   # Intellij
+   .idea/
+   *.iml
+   *.iws
+   # Mac
+   .DS_Store
+   # Maven
+   log/
+   target/
+   ```
 
 5. Add remote repository using ```git remote add origin https://github.com/ayosuva/test.git```
 6. create branch using ```git branch -M master```
