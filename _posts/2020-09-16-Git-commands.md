@@ -12,22 +12,22 @@ This page contains few useful git commands
 2. Go to you local project folder
 3. Add README.md file using ```echo "Hello" >> README.md```
 4. Add ```.gitignore``` file manually and add the below content if your project is eclipse maven project
-
+C# #
 ```js
-\#Eclipse
+# #Eclipse
 .classpath
 .project
 .settings/
 
-\#Intellij
+# #Intellij
 .idea/
 *.iml
 *.iws
 
-\#Mac
+# #Mac
 .DS_Store
 
-\#Maven
+# #Maven
 log/
 target/
 ```
