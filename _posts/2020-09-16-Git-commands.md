@@ -4,7 +4,7 @@ title:  "Useful git commands"
 author: Yosuva
 categories: [Git]
 featured: true
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-chcmm&psig=AOvVaw2ZJ7raSmvuX0VnPUcnO21t&ust=1600381823690000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi5noPd7usCFQAAAAAdAAAAABAI
+image: https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo-thumbnail.png
 ---
 This page contains few useful git commands
 
